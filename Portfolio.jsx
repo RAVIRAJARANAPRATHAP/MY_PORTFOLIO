@@ -13,7 +13,7 @@ const DATA = {
   location: "Vadodara, Gujarat, India",
   email: "ravirajaravula@gmail.com",
   phone: "9182924310",
-  linkedin: "www.linkedin.com/in/rravirajaranaprathap-0a2687244",
+  linkedin: "https://www.linkedin.com/in/rravirajaranaprathap-0a2687244",
   github: "https://github.com/Chintu-460",
   about: [
     "Third-year B.Tech Computer Science (AI & ML specialization) student at Parul University with hands-on experience building Python and Flask-based web applications, working with databases, REST-style data flows, and version control.",
